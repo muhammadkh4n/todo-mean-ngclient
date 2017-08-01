@@ -7,6 +7,4 @@ import {TaskService} from './services/task.service';
   styleUrls: ['./app.component.css'],
   providers: [TaskService]
 })
-export class AppComponent {
-  title = 'app';
-}
+export class AppComponent {}
